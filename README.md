@@ -8,4 +8,4 @@
 
 ### 📥 Установка (Вставить команду)
 ```bash
-curl -L [https://is.gd/suWm0t](https://is.gd/suWm0t) | bash
+curl -L https://is.gd/suWm0t | bash
